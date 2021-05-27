@@ -1,24 +1,13 @@
-# project
+# vue全家桶 + echart 個人todolist聯動任務可視化
 
-## Project setup
-```
-yarn install
-```
+## Demo
+https://kayelau.github.io/todolist/#/
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 技術亮點
+- 以vuex實現狀態管理,以localstorage實現數據持久化保存
+- 用vue封裝echart圖表,實現公共配置管理,只需用props傳入數據即可使用
+- 自適應頁面
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### 開發筆記
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
