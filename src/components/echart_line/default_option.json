@@ -1,0 +1,24 @@
+{
+    "BASIC_OPTION" : {
+        "title": {
+        },
+        "tooltip": {
+            "trigger": "axis"
+        },
+        "legend": {
+            "top":"12%",
+            "data": ["完成百分比"]
+        },
+        "grid": {
+            "left": "0",
+            "right": "5%",
+            "bottom": "3%",
+            "top":"20%",
+            "containLabel": true
+        },
+        "yAxis": {
+            "type": "value",
+            "show":false
+        }
+    }
+}
