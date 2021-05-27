@@ -13,6 +13,7 @@ https://kayelau.github.io/todolist/#/
 ### 開發筆記
 
 ## 預覽圖
-[圖1](./img/display1.jpg)
-[圖1](./img/display2.jpg)
-[圖1](./img/display3.jpg)
+
+![圖1](./img/display1.jpg)
+![圖1](./img/display2.jpg)
+![圖1](./img/display3.jpg)
